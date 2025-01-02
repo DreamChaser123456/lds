@@ -1,0 +1,74 @@
+[
+    {
+        "name": "张三",
+        "allCount": 50,
+        "transparentCount": 15,
+        "ordinaryCount": 20,
+        "sunCount": 10,
+        "noneCount": 5,
+        "glassRate": "90%"
+    },
+    {
+        "name": "李四",
+        "allCount": 40,
+        "transparentCount": 10,
+        "ordinaryCount": 15,
+        "sunCount": 8,
+        "noneCount": 7,
+        "glassRate": "82%"
+    },
+    {
+        "name": "王五",
+        "allCount": 30,
+        "transparentCount": 5,
+        "ordinaryCount": 10,
+        "sunCount": 12,
+        "noneCount": 3,
+        "glassRate": "90%"
+    },
+    {
+        "name": "赵六",
+        "allCount": 60,
+        "transparentCount": 20,
+        "ordinaryCount": 25,
+        "sunCount": 10,
+        "noneCount": 5,
+        "glassRate": "92%"
+    },
+    {
+        "name": "钱七",
+        "allCount": 25,
+        "transparentCount": 8,
+        "ordinaryCount": 7,
+        "sunCount": 5,
+        "noneCount": 5,
+        "glassRate": "80%"
+    },
+    {
+        "name": "王五",
+        "allCount": 30,
+        "transparentCount": 5,
+        "ordinaryCount": 10,
+        "sunCount": 12,
+        "noneCount": 3,
+        "glassRate": "90%"
+    },
+    {
+        "name": "赵六",
+        "allCount": 60,
+        "transparentCount": 20,
+        "ordinaryCount": 25,
+        "sunCount": 10,
+        "noneCount": 5,
+        "glassRate": "92%"
+    },
+    {
+        "name": "钱七",
+        "allCount": 25,
+        "transparentCount": 8,
+        "ordinaryCount": 7,
+        "sunCount": 5,
+        "noneCount": 5,
+        "glassRate": "80%"
+    }
+]
